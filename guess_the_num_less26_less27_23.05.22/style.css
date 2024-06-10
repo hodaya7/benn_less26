@@ -4,3 +4,7 @@
     font-size: x-large;
     color: #42cc8c;
 }
+
+.not-display-element {
+    display: none;
+}
